@@ -1,0 +1,24 @@
+{
+	"title" : {
+		"es":"Diseño visual para un proyecto de Desarrollador Fullstack",
+		"us":"Visual design for a Fullstack Developer project"
+	},
+	"slug" : "full-stack-project-user-stories",
+	"preview": "https://github.com/4GeeksAcademy/final-project-full-stack/raw/main/docs/assets/preview.png?raw=true",
+	"status": "published",
+	"difficulty": "intermediate",
+	"technologies": ["scrum", "final-project", "github", "user-stories"],
+	"duration" : 1,
+	"description" : {
+    "us":"Create a mockup and establish the fundamental visual parameters that will guide the development of your fullstack web application.",
+    "es":"Crea una maqueta y establece los parámetros visuales fundamentales que orientarán el desarrollo de tu aplicación web fullstack"
+  },
+  "projectType": "project",
+  "delivery": {
+		"instructions": {
+			"us": "Once you have finished building the mockups for your project, paste the URL of your mockups here and set their visibility to 'Public' so that they can be seen by everyone.",
+			"es": "Una vez que hayas terminado de construir las maquetas para tu proyecto, pega aquí la URL de tus maquetas y establece su visibilidad a 'Público' para que pueda ser visto por todos."
+		},
+		"formats": ["url"]
+	}
+}
