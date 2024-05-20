@@ -7,7 +7,7 @@
 	"preview": "https://github.com/4GeeksAcademy/final-project-full-stack/raw/main/docs/assets/preview.png?raw=true",
 	"status": "published",
 	"difficulty": "intermediate",
-	"technologies": ["scrum", "final-project", "github", "user-stories"],
+	"technologies": ["final-project","scrum","4geeks"],
 	"duration" : 1,
 	"description" : {
     "us":"Create a mockup and establish the fundamental visual parameters that will guide the development of your fullstack web application.",
