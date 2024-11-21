@@ -6,9 +6,13 @@ authors: ["arnaldoperez"]
 
 ---
 
-## How to get started?
+<onlyfor saas="true" withBanner="true">
+
+## 🌱 How to start a project
 
 Select a collaborative tool to work on the design of your site with your teammates. If you have doubts about which tools to use or what guidelines to follow for the visual design of a web application, see the article [Fundamentals of Interface Design and User Experience - UI/UX](https://4geeks.com/lesson/uiux-design-interface-user-experience)
+
+</onlyfor>
 
 ## 📝Instructions
 
